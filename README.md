@@ -6,3 +6,4 @@
 - 🔭 I’m an iOS Developer, been working with iOS since 2015
 - 🌱 I’m currently working at Itau-Unibanco as an iOS Engineer
 - 🌱 Living in Sorocaba/Sao Paulo
+- I enjoy talking about most topics: software engineering, design patterns & architectures in Mobiles/iOS, reactive programming (RxSwift/Combine)
