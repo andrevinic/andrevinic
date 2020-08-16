@@ -5,9 +5,10 @@
 
 ## Resume
 
-- 🔭 I’m an iOS Developer, been working with iOS since 2015
-- 🌱 I’m currently working at Itau-Unibanco as an iOS Engineer
-- 🌱 Living in Sorocaba/Sao Paulo
+- I’m an iOS Developer, been working with iOS since 2015
+- I’m currently working at Itau-Unibanco as an iOS Engineer
+- BS. in Computer Science at Federal University of Sao Paulo
+- Living in Sorocaba/Sao Paulo
 
 ## Software Engineer
 
