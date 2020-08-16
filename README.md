@@ -3,7 +3,14 @@
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-4A00A0?style=flat&logo=Yahoo&logoColor=white&link=mailto:avinogueira@yahoo.com)](mailto:avinogueira@yahoo.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/andrevinini/)](https://www.instagram.com/andrevinini/)
 
+## Resume
+
 - 🔭 I’m an iOS Developer, been working with iOS since 2015
 - 🌱 I’m currently working at Itau-Unibanco as an iOS Engineer
 - 🌱 Living in Sorocaba/Sao Paulo
-- I enjoy talking about most topics: software engineering, design patterns & architectures in Mobiles/iOS, reactive programming (RxSwift/Combine)
+
+## Software Engineer
+
+- iOS Topics like SwiftUI, Combine, WatchOS, RxSwift, RxCocoa
+- Scalable architectures in mobile
+- Validation & verification (Tests)
