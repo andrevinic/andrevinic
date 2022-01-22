@@ -6,12 +6,12 @@
 ## Resume
 
 - I’m an iOS Developer, been working with iOS since 2015
-- I’m currently working at Itau-Unibanco as an iOS Engineer
+- I’m currently working at Romeo as iOS Tech-Lead
 - BS. in Computer Science at Federal University of Sao Paulo
-- Living in Sorocaba/Sao Paulo
+- Living in Berlin/Germany
 
 ## Software Engineer
 
-- iOS Topics like SwiftUI, Combine, WatchOS, RxSwift, RxCocoa
+- iOS Topics like Architecture, UI, Design Systems
 - Scalable architectures in mobile
 - Validation & verification (Tests)
